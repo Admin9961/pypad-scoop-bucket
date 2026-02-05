@@ -1,0 +1,1 @@
+The creation of this app is motivated by nostalgia. Microsoft removed MS-Wordpad in latest Windows releases, so I created an alternate version written in Python with .docx processing (write/read/edit) capabilities.
