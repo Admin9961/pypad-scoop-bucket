@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
-    "description": "PyPad - Python editor",
+    "description": "The creation of this app is motivated by nostalgia. Microsoft removed MS-Wordpad in latest Windows releases, so I created an alternate version written in Python with .docx processing (write/read/edit) capabilities.",
     "homepage": "https://github.com/Admin9961/pypad-scoop-bucket",
     "license": "Proprietary",
     "url": "https://github.com/Admin9961/pypad-scoop-bucket/raw/main/PyPad.exe",
@@ -9,4 +9,5 @@
     "shortcuts": [
         ["PyPad.exe", "PyPad"]
     ]
+
 }
