@@ -1,4 +1,4 @@
-The creation of this app is motivated by nostalgia. Microsoft removed MS-Wordpad in latest Windows releases, so I created an alternate version written in Python with .docx processing (write/read/edit) capabilities.
+The creation of this app is motivated by nostalgia. Microsoft removed MS-Wordpad in latest Windows releases, so I created an alternate version written in Python with .docx processing (write/read/edit) capabilities. WARNINGS: security issues caused by UPX during the creation of the PyPad main binary.
 
 ## Installation on Windows (Method 1):
 1. Click **Start**, search and open **Powershell terminal** (Powershell 5.1 is required)
